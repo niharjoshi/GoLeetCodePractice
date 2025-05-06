@@ -11,6 +11,7 @@ func twoSum(nums []int, target int) []int {
 		}
 
 		visited[val] = pos
+
 	}
 
 	return nil
